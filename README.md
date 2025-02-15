@@ -44,19 +44,3 @@ python face_recognition_attendance.py
 ```
 Press **'o'** to mark attendance and **'q'** to exit.
 
-## 📌 Future Enhancements
-- Add **Deep Learning-based Face Recognition** (CNN).
-- Improve UI with a **Tkinter/Web Interface**.
-- Store attendance in a **Database** instead of CSV.
-
-## 🤝 Contributing
-Feel free to **fork** this repository, raise **issues**, or submit **pull requests** to improve the project!
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 📬 Contact
-For any queries, reach out via **LinkedIn** or **GitHub Issues**.
-
----
-💡 *If you found this project useful, don't forget to star ⭐ the repository!*
